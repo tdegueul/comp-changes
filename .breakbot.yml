@@ -1,5 +1,4 @@
-maven:
-  groupId: com.google.guava
-  artifactId: guava
-  version: 18.0
+clients:
+  github:
+    - tdegueul/comp-changes-client
 
