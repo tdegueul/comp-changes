@@ -4,7 +4,7 @@ import java.util.List;
 
 public class FieldTypeChanged {
 
-	public int fieldNumeric;
+	public String fieldNumeric;
 	public List fieldList;
-	
+
 }

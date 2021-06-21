@@ -1,14 +1,14 @@
 package main.classNowAbstract;
 
-public class ClassNowAbstract {
+public abstract class ClassNowAbstract {
 
 	public static final int CTE = 100;
-	
+
 	public ClassNowAbstract() {
-		
+
 	}
-	
+
 	public ClassNowAbstract(int i) {
-		
+
 	}
 }
