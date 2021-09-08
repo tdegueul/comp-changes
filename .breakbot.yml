@@ -1,4 +1,3 @@
 clients:
-  github:
-    - tdegueul/comp-changes-client
+  - repository: tdegueul/comp-changes-client
 
