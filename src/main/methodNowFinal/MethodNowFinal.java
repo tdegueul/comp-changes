@@ -1,9 +1,7 @@
 package main.methodNowFinal;
 
-public class MethodNowFinal extends SMethodNowFinal {
+public abstract class MethodNowFinal extends SMethodNowFinal {
 
-	public int methodNowFinal() {
-		return 0;
-	}
-	
+	public abstract int methodNowFinal();
+
 }
